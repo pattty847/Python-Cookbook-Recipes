@@ -6,6 +6,6 @@ line = "asdf fjdks: afed, fdke, asfg,       foo"
 
 # Match text at start or end of string
 filename = "spam.txt"
-# print(filename.endswith("txt"))
+print(filename.endswith("txt"))
 
 
