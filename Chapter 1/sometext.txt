@@ -1,0 +1,4 @@
+some text in side a file with a certain pattern
+we want to look for which is, pyth on, pytho n,
+python. more text which I want to see how the file is handled.
+This is even more words to test how the lines are handled. lmfao. more words?
